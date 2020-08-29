@@ -28,8 +28,8 @@ http://offensivedetectormodel-env.eba-saifiyvj.us-east-1.elasticbeanstalk.com/pr
 }
 ```
 
-**status** : If any error occured in backend it will say error else it will be set to success.
-**isOffensive** : boolean value which says if the text is offensive ( default threshold is 75% )
+**status** : If any error occured in backend it will say error else it will be set to success. <br>
+**isOffensive** : boolean value which says if the text is offensive ( default threshold is 75% ) <br>
 **value** : Confidence measure of the AI Model.
 
 # Installation of django project.
